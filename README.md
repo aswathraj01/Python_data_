@@ -171,6 +171,7 @@ Apply functions valuecounts,unique on any categorical column
 Filter the data frame having satisfaction score greater than 3
 Find out the average income of each department
 Loc the rows from 0-5 and first 3 column using loc and iloc
-
+Select column id,age,gender
+Find average income of employees
 
 
