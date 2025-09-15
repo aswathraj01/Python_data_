@@ -142,7 +142,8 @@ Class, object, encapsulation, inheritance, polymorphism
 
 Assignment 6 
 Oops
-1Create a class Rectangle with attributes length and width. Write methods to 2.calculate area and perimeter.Create a class Calculator with methods add(), subtract(), multiply(), and divide().
+1.Create a class Rectangle with attributes length and width. Write methods to 
+2.calculate area and perimeter.Create a class Calculator with methods add(), subtract(), multiply(), and divide().
 3.Create a class Circle with attribute radius. Write methods to calculate area and circumference.
 4.create a class Employee with attributes name and salary. Add a method display() to show details.
 5. Create a class BankAccount with attributes account_number and balance. Add methods:
@@ -165,41 +166,53 @@ Assignment 7 pandas
 
 Dataset_link : https://drive.google.com/file/d/1FZIHVaHSlNgFtYvze_VVJj-w_FH6c_TJ/view?usp=drive_link
 
-Read given csv file 
-Check basic informations
-Apply functions valuecounts,unique on any categorical column
-Filter the data frame having satisfaction score greater than 3
-Find out the average income of each department
-Loc the rows from 0-5 and first 3 column using loc and iloc
-Select column id,age,gender
-Find average income of employees
+1.Read given csv file 
+2.Check basic informations
+3.Apply functions valuecounts,unique on any categorical column
+4.Filter the data frame having satisfaction score greater than 3
+5.Find out the average income of each department
+6.Loc the rows from 0-5 and first 3 column using loc and iloc
+7.Select column id,age,gender
+8.Find average income of employees
 
 
 Assignment 8 Numpy
 
-Create 1D,2D,3D array . check it’s shape and dimension
-Create a NumPy array of numbers from 10 to 50 (inclusive) with a step of 5.
-Generate a 3×3 matrix of random integers between 1 and 20.
-From the array:
-Extract the second row.
-Extract the first column.
-Extract the subarray containing rows 1–2 and columns 2–4.
-Replace all even numbers in arr with -1
-Given:
-a = np.array([1, 2, 3])
-b = np.array([4, 5, 6])
+1.Create 1D,2D,3D array . check it’s shape and dimension
+2.Create a NumPy array of numbers from 10 to 50 (inclusive) with a step of 5.
+3.Generate a 3×3 matrix of random integers between 1 and 20.
+4.From the array:
+    Extract the second row.
+    Extract the first column.
+    Extract the subarray containing rows 1–2 and columns 2–4.
+    Replace all even numbers in arr with -1
+5.Given:
+    a = np.array([1, 2, 3])
+    b = np.array([4, 5, 6])
 
 Perform element-wise addition, subtraction, multiplication, and division.
-Create a 1D array of numbers from 1 to 12. Reshape it into:  3×4 matrix
+
+6.Create a 1D array of numbers from 1 to 12. Reshape it into:  3×4 matrix
 
 Assignment 9 visualization
 Dataset : https://drive.google.com/file/d/1nRBTVQFXyuQKnAwsGgfTBLuVdBlYOo_E/view?usp=sharing
 
-create a line chart to denote the mean price per item.  (plot for top 10 items)
-What is the mean sales for each outlet type? (both bar chart, pie chart )
-Histogram of Item_MRP
-Box plot of item weight
-Relative distribution of item weight and its visibility(scatter plot)
-Violin plot for Item_Outlet_Sales
-Scatter plot using seaborn and add hue
-Heat map for selected numeric columns
+1.create a line chart to denote the mean price per item.  (plot for top 10 items)
+2.What is the mean sales for each outlet type? (both bar chart, pie chart )
+3.Histogram of Item_MRP
+4.Box plot of item weight
+5.Relative distribution of item weight and its visibility(scatter plot)
+6.Violin plot for Item_Outlet_Sales
+7.Scatter plot using seaborn and add hue
+8.Heat map for selected numeric columns
+
+
+
+Book activity 3 (scientific python) 
+
+1.Difference between loc and iloc
+2.Use of groupby function
+3. What is pandas data frame , pandas series
+4. what are different numpy functions with example
+5. listout discussed pandas functions and its use.
+6 use cases for line plot,barplot,scatterplot,histogram ,boxplot and heatmap
