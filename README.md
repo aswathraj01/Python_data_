@@ -175,3 +175,31 @@ Select column id,age,gender
 Find average income of employees
 
 
+Assignment 8 Numpy
+
+Create 1D,2D,3D array . check it’s shape and dimension
+Create a NumPy array of numbers from 10 to 50 (inclusive) with a step of 5.
+Generate a 3×3 matrix of random integers between 1 and 20.
+From the array:
+Extract the second row.
+Extract the first column.
+Extract the subarray containing rows 1–2 and columns 2–4.
+Replace all even numbers in arr with -1
+Given:
+a = np.array([1, 2, 3])
+b = np.array([4, 5, 6])
+
+Perform element-wise addition, subtraction, multiplication, and division.
+Create a 1D array of numbers from 1 to 12. Reshape it into:  3×4 matrix
+
+Assignment 9 visualization
+Dataset : https://drive.google.com/file/d/1nRBTVQFXyuQKnAwsGgfTBLuVdBlYOo_E/view?usp=sharing
+
+create a line chart to denote the mean price per item.  (plot for top 10 items)
+What is the mean sales for each outlet type? (both bar chart, pie chart )
+Histogram of Item_MRP
+Box plot of item weight
+Relative distribution of item weight and its visibility(scatter plot)
+Violin plot for Item_Outlet_Sales
+Scatter plot using seaborn and add hue
+Heat map for selected numeric columns
